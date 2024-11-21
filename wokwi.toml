@@ -3,10 +3,6 @@ version=1
 firmware='.pio\build\megaatmega2560\firmware.hex'
 elf='.pio\build\megaatmega2560\firmware.elf'
 
-#[[chip]]
-#name = 'sensor'
-#binary='.\src\sensor.wasm'
-
 [[chip]]
-name = 'hdc3020'
-binary = '.\src\hdc3020.wasm'
+name = 'sensor'
+binary='.\src\sensor.wasm'

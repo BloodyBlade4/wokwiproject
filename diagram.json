@@ -5,7 +5,7 @@
   "parts": [
     { "type": "wokwi-arduino-mega", "id": "mega", "top": 0, "left": 0, "attrs": {} },
     { "type": "wokwi-dht22", "id": "dht1", "top": 29.1, "left": -120.6, "attrs": {} },
-    { "type": "chip-hdc3020", "id": "chip1", "top": 268.8, "left": -48, "attrs": {} }
+    { "type": "chip-sensor", "id": "chip1", "top": 260.22, "left": -110.4, "attrs": {} }
   ],
   "connections": [
     [ "dht1:VCC", "mega:3.3V", "red", [ "v96", "h249.6" ] ],

@@ -1,11 +1,15 @@
 {
-    "name": "sensor",
-    "author": "Cole Rogers",
-    "pins": [
-      "VCC",
-      "GND",
-      "IN",
-      "OUT"
-    ],
-    "controls": []
-  }
+  "name": "sensor",
+  "author": "Cole Rogers",
+  "pins": [
+    "SDA",
+    "ADDR",
+    "ALERT",
+    "SCL",
+    "GND",
+    "ADDR1",
+    "RESET",
+    "VDD"
+  ],
+  "controls": []
+}
