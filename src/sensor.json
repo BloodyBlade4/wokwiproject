@@ -1,0 +1,11 @@
+{
+    "name": "sensor",
+    "author": "Cole Rogers",
+    "pins": [
+      "VCC",
+      "GND",
+      "IN",
+      "OUT"
+    ],
+    "controls": []
+  }
